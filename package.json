@@ -1,10 +1,10 @@
 {
   "name": "jsai-interval-jobprocessor",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A utility to map a job processor to an interval",
   "dependencies": {
-    "jsai-jobprocessor": "0.0.29",
-    "jsai-servicemessage": "0.0.16",
+    "jsai-jobprocessor": "0.0.30",
+    "jsai-servicemessage": "0.0.17",
     "lodash": "^3.9.1"
   }
 }
